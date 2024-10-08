@@ -5,12 +5,15 @@
             <li>
                 <router-link to="/counter">Counter</router-link>
             </li>
+            <br>
             <li>
                 <router-link to="/employee">Employee</router-link>
             </li>
+            <br>
             <li>
-                <router-link to="/userlist">User List</router-link>
+                <router-link to="/users">User List</router-link>
             </li>
+            <br>
         </ul>
     </nav>
 </template>
